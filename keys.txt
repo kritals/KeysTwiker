@@ -1,2 +1,29 @@
-#kritals
-#mem
+# RustTweaker — список валидных ключей доступа
+# Формат: один ключ на строку, # = комментарий
+# Чтобы отозвать ключ — закомментируй строку или удали её
+
+# === Тестовые ключи ===
+KRITALS-TEST-2024
+DEMO-FREE-0001
+
+# === Личные / пробные ===
+ADMIN-KRITALS-9X
+KRITALS-OWN-PROJECT
+
+# === Друзьям ===
+RT-FRIEND-AB12
+RT-FRIEND-CD34
+RT-FRIEND-EF56
+
+# === Подписчики Telegram ===
+TG-USER-001-XQ8K
+TG-USER-002-MN3P
+TG-USER-003-W4RZ
+
+# === Pro / донат ===
+PRO-VIP-7K2J-XQ81
+PRO-DONATE-A9F3
+
+# === Отозванные (не удаляйте, оставьте закомм. для истории) ===
+# REVOKED-OLDKEY-2023
+# REVOKED-LEAKED-XYZ
