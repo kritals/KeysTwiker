@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "globalDisabled": false,
+  "killSwitchMessage": "Сервер на техобслуживании до 20:00 МСК",
+  "minVersion": "1.0.0",
+  "keys": {
+    "RT-PRO-YOUR-KEY-1": {
+      "active": true,
+      "hwid": null,
+      "expires": "2026-12-31",
+      "tier": "pro"
+    },
+    "RT-PRO-USER-PC-2": {
+      "active": true,
+      "hwid": "здесь_появится_хеш_после_первого_входа",
+      "expires": null,
+      "tier": "pro"
+    }
+  }
+}
